@@ -5,5 +5,5 @@
 [mysql-connector-python]( https://pypi.org/project/mysql-connector-python/ )
 [xlrd](https://pypi.org/project/xlrd/#files)
 
-示例文件就是test.xlsx
+示例文件就是testExcel.xlsx
 

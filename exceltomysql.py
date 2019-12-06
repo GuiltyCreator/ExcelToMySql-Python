@@ -73,7 +73,7 @@ config = {
     "user":"root",
     "password":"123456",
     "port":"3306",
-    "database":"etl",  #数据库
+    "database":"test",  #数据库
     "charset":"utf8"
 }
 

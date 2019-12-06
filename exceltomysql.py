@@ -77,4 +77,4 @@ config = {
     "charset":"utf8"
 }
 
-# creatTable(ddl)
+creatTable(ddl)

@@ -7,3 +7,6 @@
 
 示例文件就是testExcel.xlsx
 
+## 更新
+readExcel.py可以根据表结构，在终端输出insert语句
+
